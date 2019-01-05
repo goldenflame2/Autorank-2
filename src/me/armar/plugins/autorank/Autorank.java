@@ -431,6 +431,9 @@ public class Autorank extends JavaPlugin {
 
         // ASkyBlock
         RequirementBuilder.registerRequirement("askyblock level", ASkyBlockLevelRequirement.class);
+		
+        // USkyBlock
+        RequirementBuilder.registerRequirement("uskyblock level", USkyBlockLevelRequirement.class);
 
         // Jobs
         RequirementBuilder.registerRequirement("jobs current points", JobsCurrentPointsRequirement.class);
