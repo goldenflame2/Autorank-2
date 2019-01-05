@@ -416,6 +416,10 @@ public enum Lang {
      */
     UNKNOWN_PLAYER("unknown-player", "&cPlayer {0} is unknown and couldn't be identified."),
     /**
+     * Have an island level of at least {0}.
+     */
+    USKYBLOCK_LEVEL_REQUIREMENT("uskyblock-level-requirement", "Have at least a (skyblock) island level of {0}."),
+    /**
      * Vote at least {0} times.
      */
     VOTE_REQUIREMENT("vote-requirement", "Vote at least {0} times"),
